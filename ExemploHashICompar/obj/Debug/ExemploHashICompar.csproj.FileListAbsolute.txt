@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\bin\Debug\ExemploHashICompar.exe.config
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\bin\Debug\ExemploHashICompar.exe
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\bin\Debug\ExemploHashICompar.pdb
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\obj\Debug\ExemploHashICompar.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\obj\Debug\ExemploHashICompar.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\obj\Debug\ExemploHashICompar.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\obj\Debug\ExemploHashICompar.exe
+C:\Users\sande\source\repos\ExemploHashICompar\ExemploHashICompar\obj\Debug\ExemploHashICompar.pdb
